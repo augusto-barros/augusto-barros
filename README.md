@@ -2,8 +2,8 @@
 - 👀 I’m interested in new challenges as FullStack Developer
 - 🐍 I’m currently learning Python
 
-🇧🇷 Born in Brasília, Brazil
-🇨🇦 Living in Calgary, Canada
+- 🇧🇷 Born in Brasília, Brazil
+- 🇨🇦 Living in Calgary, Canada
 
 <!---
 augusto-barros/augusto-barros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
