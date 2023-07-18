@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Augusto Barros
 - 👀 I’m interested in new challenges as FullStack Developer
-- 🌱 I’m currently learning Python
+- 🐍 I’m currently learning Python
 
 <!---
 augusto-barros/augusto-barros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
