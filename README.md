@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Augusto Barros
-- 👀 I’m interested in new challenges as FullStack Developer
+- 👋 Hi, I’m Augusto Barros.
+- 👀 I’m interested in new challenges as a Developer.
 - 🐍 I’m currently learning HTML, CSS, Javascript, React, Python, Django.
 
 <!---
