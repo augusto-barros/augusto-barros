@@ -9,15 +9,11 @@ I'm a passionate and motivated developer with a keen interest in solving problem
 - Goals: Always looking for new challenges to grow as a developer and collaborate with like-minded individuals.
 
 🔧 Skills & Technologies
-- **Languages**: Java, JavaScript, TypeScript, PL/SQL, SQL
+- **Languages**: Python, Java, JavaScript, TypeScript
 - **Frameworks/Libraries**: React, React Native, Svelte
 - **Tools**: Git, GitHub, Firebase, Node.js
 - **Databases**: MySQL, Firebase
 - **Other**: REST APIs, UI/UX design, Agile methodologies
-
-🚀 Current Projects
-- **Calorie-Counting Web App**: Building a web app using React, Firebase, and APIs to help users track their daily calorie intake.
-- **SafeHome Home Automation System**: Designing and developing a home automation system with a focus on security, including UML diagrams and code.
 
 📚 Learning Goals
 - Deepening my knowledge of TypeScript and React Native for mobile app development.
