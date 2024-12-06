@@ -11,8 +11,8 @@ I'm a passionate and motivated developer with a keen interest in solving problem
 🔧 Skills & Technologies
 - **Languages**: Python, Java, JavaScript, TypeScript
 - **Frameworks/Libraries**: React, React Native, Svelte
-- **Tools**: Git, GitHub, Firebase, Node.js
-- **Databases**: MySQL, Firebase
+- **Tools**: Git, GitHub, Node.js
+- **Databases**: SQL, Firebase
 - **Other**: REST APIs, UI/UX design, Agile methodologies
 
 📚 Learning Goals
